@@ -1,0 +1,14 @@
+#sidebar{
+	margin-top: 0px!important;
+	background-color: grey!important;
+}
+
+/**
+ * Form Validation Errors
+ */
+
+.error-message {
+	color: red;
+	font-style: italic;
+	margin-bottom: 1em;
+}
